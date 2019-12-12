@@ -122,9 +122,6 @@
                     <para> <literal>fn:default-language#0</literal> </para>
                 </listitem>
                 <listitem>
-                    <para> <literal>fn:document-uri#0</literal> </para>
-                </listitem>
-                <listitem>
                     <para> <literal>fn:element-with-id#1, #2</literal> </para>
                 </listitem>
                 <listitem>
